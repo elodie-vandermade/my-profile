@@ -1,0 +1,76 @@
+/* Colrs and fonts */
+body {
+	background-color: #C2D9FF;
+	font-family: Helvetica;
+	font-size: 17px;
+}
+
+h1{
+	color: #190482;
+	font-family: helvetica;
+	font-size: 32px;
+}
+a {
+	text-decoration: ;
+}
+a: hover{
+	color: black;
+}
+h2{
+	color: rgb(100, 100, 100);
+	front-size: 24px;
+	front-weight: lighter;
+	front-weight: 500;
+}
+a{
+	font-family: "roboto",sans-serif;
+	text-decoration: none;
+	color: #190482;
+	font-weight: 600;
+	font-size: 16px;
+}
+a: hover {
+	color: black;
+}
+
+/*Custom design with class */
+.container{
+width: 700px;
+margin: 40px auto;
+}
+.card-white{
+	background-color: lightcyan;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0, 1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+.img-circle{
+	border-radius: 60%;
+}
+.btn_blue{
+	background-color: #6B72E1;
+	color: white;
+	padding: 15px 20px;
+}
+.list-inline{
+	list-style: none;
+	paddind-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: rgd(230, 230, 230);
+}
+.list-inline i{
+	font-size: 50px;
+	color: rgb(230, 230, 230);
+}
+
+
+
+
